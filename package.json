@@ -1,0 +1,19 @@
+{
+  "name": "my-vercel-redirect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "SyedShakeelAbbas",
+  "license": "ISC",
+  "description": "A simple project to create clickable image links with metadata support for Vercel deployment.",
+  "dependencies": {
+    "next": "^15.1.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
